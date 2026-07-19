@@ -1,0 +1,14 @@
+{
+    "models": [
+        "Random Forest",
+        "Gradient Boosting",
+        "Logistic Regression"
+    ],
+    "weights": {
+        "Random Forest": 0.5,
+        "Gradient Boosting": 0.2,
+        "Logistic Regression": 0.3
+    },
+    "oof_accuracy": 0.8540965207631874,
+    "oof_log_loss": 0.3800667064908438
+}

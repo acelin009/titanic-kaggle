@@ -1,0 +1,4 @@
+Model,Best CV Accuracy,Best CV Std,Best Train Accuracy,Train-CV Gap,Best Parameters
+Random Forest,0.8540644027368023,0.016888390851373895,0.9309760940479379,0.07691169131113562,"{'classifier__n_estimators': 1000, 'classifier__min_samples_split': 4, 'classifier__min_samples_leaf': 1, 'classifier__max_features': None, 'classifier__max_depth': 8, 'classifier__class_weight': 'balanced'}"
+Gradient Boosting,0.8383654510074697,0.01221320048560473,0.9264860456687206,0.08812059466125088,"{'classifier__subsample': 0.7, 'classifier__n_estimators': 100, 'classifier__min_samples_split': 4, 'classifier__min_samples_leaf': 3, 'classifier__max_features': None, 'classifier__max_depth': 5, 'classifier__learning_rate': 0.05}"
+Logistic Regression,0.8361308141359614,0.009793665365456472,0.83277179822557,-0.0033590159103913386,"{'classifier__solver': 'liblinear', 'classifier__penalty': 'l2', 'classifier__class_weight': None, 'classifier__C': np.float64(0.5736152510448681)}"

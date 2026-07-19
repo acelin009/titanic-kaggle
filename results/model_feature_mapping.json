@@ -1,0 +1,50 @@
+{
+    "Gradient Boosting": [
+        "Pclass",
+        "Sex",
+        "Age",
+        "SibSp",
+        "Parch",
+        "Fare",
+        "Embarked",
+        "Title",
+        "FamilySize",
+        "IsAlone",
+        "FamilyCategory",
+        "CabinKnown",
+        "Deck"
+    ],
+    "Logistic Regression": [
+        "Pclass",
+        "Sex",
+        "Age",
+        "SibSp",
+        "Parch",
+        "Fare",
+        "Embarked",
+        "Title"
+    ],
+    "Random Forest": [
+        "Pclass",
+        "Sex",
+        "Age",
+        "SibSp",
+        "Parch",
+        "Fare",
+        "Embarked",
+        "Title",
+        "FamilySize",
+        "IsAlone",
+        "FamilyCategory",
+        "CabinKnown",
+        "Deck",
+        "TicketGroupSize",
+        "TicketPrefix",
+        "FarePerPerson",
+        "LogFare",
+        "AgeMissing",
+        "IsChild",
+        "AgeGroup",
+        "Sex_Pclass"
+    ]
+}
