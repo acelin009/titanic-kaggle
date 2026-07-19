@@ -1,0 +1,5 @@
+Submission File,Model,Local OOF Accuracy,Kaggle Public Score,Kaggle Private Score,Submission Date,Notes
+submission_logistic_regression.csv,Logistic Regression,0.8361391694725028,,,,
+submission_random_forest.csv,Random Forest,0.8540965207631874,,,,
+submission_gradient_boosting.csv,Gradient Boosting,0.8383838383838383,,,,
+submission_weighted_ensemble.csv,Weighted Ensemble,0.8540965207631874,,,,
